@@ -1,0 +1,17 @@
+.header-display{
+    width:auto;
+    height: 100px;
+    justify-content: space-between;
+    background-color: brown;
+    display:flex;
+    border:10px;
+    padding-left:100px;
+}
+.header-display>li{
+    list-style-type: none;
+     border:10px;
+     padding-left: 100px;
+     padding-top: 10px;
+     padding-right: 30px;
+     display:flex;
+}
